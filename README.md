@@ -2,13 +2,6 @@
 
 Project Name: F.R.I.E.N.D.S 
 
-Developers:
-1. Rohith Bhat Kuthyar
-2. Siva Dheeraj Reddy Obulam
-3. Ruchika Sharma
-4. Sai Vennela Nekkanti
-
-
 Project Description:
 
   Hello User, FRIENDS app is designed to help the people to easy the interaction between them by forming small groups and plan and organize the different works and taks. This is inspired from real life situations like roomates sharing the task, friends doing projects, planing road trips. Friends allows the users to create rooms and interact related to the tasks, it has the features like chat room, Notes and scheduling of tasks to easen the day to day interaction and tracking of things. 
